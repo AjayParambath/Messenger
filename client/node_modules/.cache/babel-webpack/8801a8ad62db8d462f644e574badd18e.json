@@ -1,0 +1,1 @@
+{"ast":null,"code":"import io from \"./build/index.js\";\nexport const Manager = io.Manager;\nexport const Socket = io.Socket;\nexport { io };\nexport default io;","map":null,"metadata":{},"sourceType":"module"}
